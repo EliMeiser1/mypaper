@@ -1,9 +1,9 @@
 # mypaper
 This is a test repository. My first paper on Software carpentreology with git
 
-##Abstract
+## Abstract
 abstract text on swc. 
 
-##Introduction
+## Introduction
 Introducing text to my topic. 
 
