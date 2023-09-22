@@ -7,3 +7,6 @@ abstract text on swc.
 ## Introduction
 Introducing text to my topic. 
 
+## Methods
+this are some methods.
+
